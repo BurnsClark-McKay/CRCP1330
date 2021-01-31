@@ -45,7 +45,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 271.0, 67.0, 141.0, 131.0 ],
+					"patching_rect" : [ 271.0, 67.0, 142.0, 131.0 ],
 					"text" : "Sends bang to message box 75 which then sets number to 75, and from there cycle. Also sends bang to message box \"Hello\\, world!\" which then transmits to print, printing \"Hello, world!\" to the console."
 				}
 
@@ -57,7 +57,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 101.3125, 67.0, 103.9375, 89.0 ],
+					"patching_rect" : [ 95.03125, 65.0, 103.9375, 89.0 ],
 					"text" : "Sends bang to message box \"440\" which then sets number to 440, and from there cycle."
 				}
 
